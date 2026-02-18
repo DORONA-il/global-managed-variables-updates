@@ -2,7 +2,7 @@
   "name": "Global Managed Variables (GMV)",
   "slug": "global-managed-variables",
   "version": "1.0.5",
-  "download_url": "REPLACE_WITH_ZIP_URL",
+  "download_url": "https://github.com/DORONA-il/global-managed-variables-updates/releases/download/v1.0.5/global-managed-variables-1.0.5.zip",
   "requires": "5.8",
   "tested": "6.6",
   "requires_php": "7.4",
