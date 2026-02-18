@@ -1,0 +1,14 @@
+{
+  "name": "Global Managed Variables (GMV)",
+  "slug": "global-managed-variables",
+  "version": "1.0.5",
+  "download_url": "REPLACE_WITH_ZIP_URL",
+  "requires": "5.8",
+  "tested": "6.6",
+  "requires_php": "7.4",
+  "last_updated": "2026-02-18",
+  "sections": {
+    "description": "Global variables manager with SEO-safe global shortcode rendering.",
+    "changelog": "1.0.5 - Global rendering for [gmv] across title/excerpt/widgets/SEO. Uninstall wipes all on delete."
+  }
+}
