@@ -1,14 +1,14 @@
 {
   "name": "Global Managed Variables (GMV)",
   "slug": "global-managed-variables",
-  "version": "1.0.5",
-  "download_url": "https://github.com/DORONA-il/global-managed-variables-updates/releases/download/v1.0.5/global-managed-variables-1.0.5.zip",
+  "version": "1.0.6",
+  "download_url": "https://github.com/DORONA-il/global-managed-variables-updates/releases/download/v1.0.6/global-managed-variables-1.0.6.zip",
   "requires": "5.8",
   "tested": "6.6",
   "requires_php": "7.4",
   "last_updated": "2026-02-18",
   "sections": {
     "description": "Global variables manager with SEO-safe global shortcode rendering.",
-    "changelog": "1.0.5 - Global rendering for [gmv] across title/excerpt/widgets/SEO. Uninstall wipes all on delete."
+    "changelog": "1.0.6 - Update gmv-update.json and release package alignment."
   }
 }
